@@ -9,3 +9,4 @@ Proyecto de una api para el tema relacionado con las peticiones HTTP utilizando 
 # Extensiones java y Spring Boot para Visual Studio Code
 1. Extension pack for java
 2. Spring boot extension pack
+3. Java Code Generators: Sohibe (getters y setters)
